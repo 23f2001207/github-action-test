@@ -20,8 +20,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # A step with a name containing the required email address
-      - name: "Verification step for 23f3004197@ds.study.iitm.ac.in"
-        run: echo "This step is being checked by the grader!"
+      - name: 23f2001207@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
 
       - name: A second step
         run: echo "Hello, world!"
